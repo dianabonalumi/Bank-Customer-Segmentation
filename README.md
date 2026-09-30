@@ -2,7 +2,7 @@
 
 Customer segmentation on mixed-type banking data (numerical and categorical features), developed as a business case for the Fintech course at Politecnico di Milano.
 
-📊 **[Project presentation (PDF)](docs/Client-Segmentation-Slides.pdf)**
+📊 **[Project presentation (PDF)](Client-Segmentation-Slides.pdf)**
 
 ## Approach
 - **Preprocessing**: Min-Max scaling for numerical features and One-Hot Encoding (without dropping categories) to keep Jaccard/Dice similarities meaningful
